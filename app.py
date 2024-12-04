@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, redirect
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -12,7 +12,7 @@ CORS(
 
 @app.route("/")
 def index():
-    return "Hello World!"
+    return redirect("https://github.com/ghrlt/statiflix-backend")
 
 
 DATABASE = {}
