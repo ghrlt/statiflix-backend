@@ -1,0 +1,54 @@
+Statiflix Privacy Policy
+Last Updated: [Insert Date]
+Welcome to Statiflix! Your privacy is our priority. This Privacy Policy explains how we collect, use, and protect your personal data when using our Chrome extension.
+
+1. Data Collected
+Statiflix collects cookies from your Netflix account when you use our extension. These cookies may include information necessary to authenticate your account on the mobile application linked to Statiflix.
+
+We do not collect or store other personal information, such as:
+
+Your name, email address, or other personal identifiers.
+Your Netflix viewing habits or watch history.
+Purpose of Collection:
+The cookies are collected solely to allow the Statiflix mobile application to access your Netflix account.
+
+2. How We Use Your Data
+The collected cookies are directly transferred to the mobile application associated with your Statiflix account.
+We do not store, analyze, or sell your data.
+
+3. Data Sharing
+Statiflix does not share your cookies or any other collected data with third parties, except for services required to securely transfer this data to your mobile device.
+
+4. Data Storage and Security
+We implement strict measures to protect your data:
+
+The cookies are not stored by the extension after the transfer is completed.
+The transmission is encrypted to ensure data confidentiality.
+However, it is your responsibility to secure your Netflix account (e.g., by using a strong password).
+
+5. Open-Source Projects
+Statiflix is an open-source project designed with transparency and collaboration in mind. You can review and audit our source code on GitHub.
+
+This means all the logic behind the extension is publicly available, ensuring that no data is collected or used for hidden purposes.
+
+6. Your Rights
+Under GDPR (if applicable) or other data protection laws, you have the following rights:
+
+Access and Transparency: You can request information about how your data is collected and used.
+Data Deletion: Since cookies are immediately deleted after transfer, no persistent data is retained for deletion.
+Withdrawal of Consent: You can uninstall the extension at any time to stop all cookie collection.
+7. Legal Basis
+Statiflix relies on your explicit consent to collect and transfer your Netflix cookies. By installing and using the extension, you agree to this collection for the specific purpose outlined in this policy.
+
+8. Contact Us
+For any questions or concerns regarding your privacy, you can contact us at:
+
+Email: [statiflix@bostra.dev]
+9. Policy Updates
+We reserve the right to modify this Privacy Policy at any time. If updates are made, we will notify you via the extension or our website.
+
+Important Disclaimer:
+Using this extension and transferring Netflix cookies may be subject to Netflix’s terms of use.
+Statiflix disclaims all liability for any breach of Netflix’s terms of service.
+
+By using the Statiflix extension, you agree to this Privacy Policy.

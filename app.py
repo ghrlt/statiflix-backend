@@ -15,6 +15,18 @@ def index():
     return redirect("https://github.com/ghrlt/statiflix-backend")
 
 
+@app.route("/privacy-policy")
+def privacy_policy():
+    if request.args.get("lang") == "fr":
+        return redirect(
+            "https://github.com/ghrlt/statiflix-backend/blob/master/privacy-policy_fr.txt"
+        )
+
+    return redirect(
+        "https://github.com/ghrlt/statiflix-backend/blob/master/privacy-policy_en.txt"
+    )
+
+
 DATABASE = {}
 
 
